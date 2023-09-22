@@ -2,7 +2,7 @@
 
 This is my project for the NS-tech consultancy company. 
 
-![Website Preview](website-preview.png)
+
 
 ## Project Overview
 
@@ -30,11 +30,7 @@ To view the website locally or make further modifications, follow these steps:
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- [Gautam Mishra](https://github.com/your-username)
 
 ## Acknowledgments
 
